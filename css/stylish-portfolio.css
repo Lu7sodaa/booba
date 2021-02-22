@@ -16,7 +16,7 @@
 }
 
 @font-face {
-    font-family: Fk;
+    font-family: Fk-right;
     src: url("../vendor/FK/FKScreamer-Upright.ttf") format("opentype");
 }
 
@@ -60,8 +60,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
-  font-family: Fk;
+  font-family: Fk-right;
+  font-weight: lighter;
 }
 
 .text-faded {
