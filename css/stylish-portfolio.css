@@ -212,18 +212,21 @@ h6 {
 }
 
 .callout {
-  padding: 15rem 0;
+  padding: 10rem 0;
   background-image: url("../img/boo.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-height: 100vh;
+  color: white;
 }
 
-.callout h2 {
-  font-size: 3.5rem;
+.callout h3 {
+  font-size: 2rem;
   font-weight: 700;
   display: block;
   max-width: 30rem;
+  color:white;
 }
 
 .portfolio-item {
