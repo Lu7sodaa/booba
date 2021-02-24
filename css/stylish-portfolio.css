@@ -407,3 +407,7 @@ a:hover, a:focus, a:active {
 .bold {
   font-weight: bold;
 }
+
+.sign {
+  font-size: 1.25rem;
+}
