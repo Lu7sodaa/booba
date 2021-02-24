@@ -350,11 +350,13 @@ footer.footer .social-link:hover {
 }
 
 a {
-  color: black;
+  color: white;
+  font-style: italic;
 }
 
 a:hover, a:focus, a:active {
-  color: #155d74;
+  color: white;
+  text-decoration: underline;
 }
 
 .btn-primary {
