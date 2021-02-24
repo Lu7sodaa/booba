@@ -285,7 +285,9 @@ h6 {
   font-weight: 300;
   font-size: 1.2rem;
 }
-
+.min {
+  font-size: 0.8em;
+}
 @media (min-width: 992px) {
   .portfolio-item {
     max-width: none;
