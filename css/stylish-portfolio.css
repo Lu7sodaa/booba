@@ -234,7 +234,12 @@ h6 {
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
-.callout {
+.tof {
+  min-height: 70vh;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: auto;
   padding: 10rem 0;
   background-image: url("../img/boo.jpg");
   background-position: center center;
